@@ -7,3 +7,4 @@ Currently, two official plugins are available:
 - [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
 - [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
 # Cliente_login
+Criação do cliente da aplicação, somente a parte do frontend. Neste primeiro projeto estou inserindo uma tela de login com pequenas funcionalidades que serão melhoradas no andamento de meus estudos.
